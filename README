@@ -15,6 +15,7 @@ WP CLI is a graphic user interface for every administrative task and this has he
 5. wp-info   [Vertification command to check successful installation]
 
 ## Download WordPress
+
 ```
 $ wp core download
 ```
