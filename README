@@ -14,3 +14,8 @@ WP CLI is a graphic user interface for every administrative task and this has he
 4. sudo mv wp-cli.phar /usr/local/bin/wp
 5. wp-info   [Vertification command to check successful installation]
 
+## Download WordPress
+```
+$ wp core download
+```
+
